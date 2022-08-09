@@ -13,7 +13,7 @@ Archieve/
 *.fot
 *.cb
 *.cb2
-.*.lb
-.*.fdb
-.*.gz
-.*.fdb_latexmk
+*.lb
+*.fdb
+*.gz
+*.fdb_latexmk
